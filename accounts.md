@@ -2,7 +2,9 @@ chihuahuad tx send <address-wallet-ms> <address-wallet-rc> 500000uhuahua --chain
 
 chihuahuad tx send <address-wallet-ms> <address-wallet-rc> 500000uhuahua --chain-id chihuahua-1 --generate-only >> tx.json
 
-chihuahuad tx sign tx.json --from coldchain --multisig chi-dao --chain-id chihuahua-1 --node https://rpc.chihuahua.wtf:443 --fees 5000uhuahua --signature-only
+curl -s https://raw.githubusercontent.com/nullmames/chi-community-dao/main/tx/20220122/unsignedTx.json
+
+chihuahuad tx sign unsignedTx.json --from coldchain --multisig chi-dao --chain-id chihuahua-1 --node https://rpc.chihuahua.wtf:443 5000uhuahua --signature-only 
 
 chihuahuad tx multisign --from kingnodes tx.json chi-dao coldchain.json sig-karan.json > tx_signed.json
 

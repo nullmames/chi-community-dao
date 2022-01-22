@@ -88,6 +88,17 @@
                 "amount": "400000000000"
               }
             ]
+          },
+          {
+            "@type": "/cosmos.bank.v1beta1.MsgSend",
+            "from_address": "chihuahua19eyp4rq08030xn4f43dmmw8v7prk7rjajej5rl",
+            "to_address": "chihuahua1aqzdyf7c8vcy7826yw6zsy4y0gcvpf4sqvvksc",
+            "amount": [
+              {
+                "denom": "uhuahua",
+                "amount": "56000000000"
+              }
+            ]
           }                      
         ],
       "memo": "Chihuahua Community-Dao, Monthly distribution for January 2022",
@@ -99,7 +110,7 @@
       "signer_infos": [],
       "fee": {
         "amount": [],
-        "gas_limit": "200000",
+        "gas_limit": "3000000",
         "payer": "",
         "granter": ""
       }
