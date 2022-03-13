@@ -92,7 +92,7 @@
         {
           "@type": "/cosmos.bank.v1beta1.MsgSend",
           "from_address": "chihuahua19eyp4rq08030xn4f43dmmw8v7prk7rjajej5rl",
-          "to_address": "chihuahua1mwxjwj98fafqxh5prrqx503skqrv8pyz060n0j ",
+          "to_address": "chihuahua1mwxjwj98fafqxh5prrqx503skqrv8pyz060n0j",
           "amount": [
             {
               "denom": "uhuahua",
