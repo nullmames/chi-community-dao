@@ -1,0 +1,130 @@
+{
+    "body": {
+      "messages": [
+        {
+          "@type": "/cosmos.bank.v1beta1.MsgSend",
+          "from_address": "chihuahua19eyp4rq08030xn4f43dmmw8v7prk7rjajej5rl",
+          "to_address": "chihuahua1s2u8u36mcrffytug5fammpshg0jk68kg90pksa",
+          "amount": [
+            {
+              "denom": "uhuahua",
+              "amount": "750000000000"
+            }
+          ]
+        },
+        {
+          "@type": "/cosmos.bank.v1beta1.MsgSend",
+          "from_address": "chihuahua19eyp4rq08030xn4f43dmmw8v7prk7rjajej5rl",
+          "to_address": "chihuahua1as9jj5aqf8lsxnrc4gqpfnmz6pcvrc7hg657xw",
+          "amount": [
+            {
+              "denom": "uhuahua",
+              "amount": "750000000000"
+            }
+          ]
+        },
+        {
+          "@type": "/cosmos.bank.v1beta1.MsgSend",
+          "from_address": "chihuahua19eyp4rq08030xn4f43dmmw8v7prk7rjajej5rl",
+          "to_address": "chihuahua184q2dys3sr9n8k4y46dh8dxcrdaexukpme2thy",
+          "amount": [
+            {
+              "denom": "uhuahua",
+              "amount": "500000000000"
+            }
+          ]
+        },
+        {
+          "@type": "/cosmos.bank.v1beta1.MsgSend",
+          "from_address": "chihuahua19eyp4rq08030xn4f43dmmw8v7prk7rjajej5rl",
+          "to_address": "chihuahua1wetfw943qvguzh2x26ukd7t0ukmqjsjufhashn",
+          "amount": [
+            {
+              "denom": "uhuahua",
+              "amount": "500000000000"
+            }
+          ]
+        },
+        {
+          "@type": "/cosmos.bank.v1beta1.MsgSend",
+          "from_address": "chihuahua19eyp4rq08030xn4f43dmmw8v7prk7rjajej5rl",
+          "to_address": "chihuahua1vkhgq52y8tgrjrpua253l9w0ly9uxzzajvnr2h",
+          "amount": [
+            {
+              "denom": "uhuahua",
+              "amount": "500000000000"
+            }
+          ]
+        },
+        {
+          "@type": "/cosmos.bank.v1beta1.MsgSend",
+          "from_address": "chihuahua19eyp4rq08030xn4f43dmmw8v7prk7rjajej5rl",
+          "to_address": "chihuahua1snp4sxak6zctwl3q8uy2xmje870e7p0w4mvqd5",
+          "amount": [
+            {
+              "denom": "uhuahua",
+              "amount": "120000000000"
+            }
+          ]
+        },
+        {
+          "@type": "/cosmos.bank.v1beta1.MsgSend",
+          "from_address": "chihuahua19eyp4rq08030xn4f43dmmw8v7prk7rjajej5rl",
+          "to_address": "chihuahua1vj0cep283q776ud4496n7jw4at3ehygnmuxjza",
+          "amount": [
+            {
+              "denom": "uhuahua",
+              "amount": "200000000000"
+            }
+          ]
+        },
+        {
+          "@type": "/cosmos.bank.v1beta1.MsgSend",
+          "from_address": "chihuahua19eyp4rq08030xn4f43dmmw8v7prk7rjajej5rl",
+          "to_address": "chihuahua1mwxjwj98fafqxh5prrqx503skqrv8pyz060n0j",
+          "amount": [
+            {
+              "denom": "uhuahua",
+              "amount": "300000000000"
+            }
+          ]
+        },
+        {
+          "@type": "/cosmos.bank.v1beta1.MsgSend",
+          "from_address": "chihuahua19eyp4rq08030xn4f43dmmw8v7prk7rjajej5rl",
+          "to_address": "chihuahua1wkr3k57jqz4tg89uzknqtc5a539dcgjkknpgka",
+          "amount": [
+            {
+              "denom": "uhuahua",
+              "amount": "500000000000"
+            }
+          ]
+        },
+        {
+          "@type": "/cosmos.bank.v1beta1.MsgSend",
+          "from_address": "chihuahua19eyp4rq08030xn4f43dmmw8v7prk7rjajej5rl",
+          "to_address": "chihuahua13ptdgc9qtgpm32d4dw9yax83s72zu9rhuyseda",
+          "amount": [
+            {
+              "denom": "uhuahua",
+              "amount": "500000000000"
+            }
+          ]
+        }
+        ],
+      "memo": "Chihuahua Community-Dao distribution for 1st half July 2022",
+      "timeout_height": "0",
+      "extension_options": [],
+      "non_critical_extension_options": []
+    },
+    "auth_info": {
+      "signer_infos": [],
+      "fee": {
+        "amount": [],
+        "gas_limit": "3000000",
+        "payer": "",
+        "granter": ""
+      }
+    },
+    "signatures": []
+}
