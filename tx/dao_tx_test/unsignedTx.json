@@ -1,0 +1,41 @@
+{
+    "body": {
+      "messages": [
+        {
+          "@type": "/ibc.applications.transfer.v1.MsgTransfer",
+          "source_port": "transfer",
+          "source_channel": "channel-11",
+          "token": {
+            "denom": "uhuahua",
+            "amount": "1000000"
+          },
+          "sender": "chihuahua19eyp4rq08030xn4f43dmmw8v7prk7rjajej5rl",
+          "receiver": "juno1kvtefw5v6w0vlgurvhgjvmu2ny8vg8vy2lwdk9k3h547plh7j6gqvjcqaz",
+          "timeout_height": {
+            "revision_number": "1",
+            "revision_height": "4315322"
+          },
+          "timeout_timestamp": "1660196156260296197"
+        }
+      ],
+      "memo": "",
+      "timeout_height": "0",
+      "extension_options": [],
+      "non_critical_extension_options": []
+    },
+    "auth_info": {
+      "signer_infos": [],
+      "fee": {
+        "amount": [
+          {
+            "denom": "uhuahua",
+            "amount": "5000"
+          }
+        ],
+        "gas_limit": "200000",
+        "payer": "",
+        "granter": ""
+      }
+    },
+    "signatures": []
+  }
